@@ -22,3 +22,10 @@ M3 heat inserts are used. They exist in several lengths, they should not be long
 ## Side Cover
 
 Documentation coming...
+
+<img src="..//IMG//insert.png" alt="Insert" style="width: 300px; margin-right: 20px;">
+
+## Cardboard Enclosure
+Documentation coming...
+
+<img src="..//IMG//cardboardenclosure.png" alt="cardboard Enclosure" style="width: 300px; margin-right: 20px;">
